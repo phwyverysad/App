@@ -1,0 +1,119 @@
+﻿7-Zip 24.08 (x64)
+authme
+AOMEI Partition Assistant 10.12.1
+AMD Software
+Antigravity 2.9.1
+Antigravity IDE (User)
+AutoHotkey (user)
+AnyDesk
+BlueStacks
+Brave
+Canva
+CapCut
+Clownfish Voice Changer
+Custom Clipboard Manager
+Discord
+Discord Canary
+Discord PTB
+Docker Desktop
+EasyBCD 2.4
+FxSound
+Git
+GitHub
+Google Chrome
+Google Drive
+HyperX NGENUITY    
+Java(TM) SE Development Kit 25.0.3 (64-bit)
+LINE
+Microsoft .NET Core Runtime - 3.0.3 (x64)
+Microsoft .NET Core Runtime - 3.0.3 (x86)
+Microsoft .NET Core Runtime - 3.1.32 (x64)
+Microsoft .NET Core Runtime - 3.1.32 (x86)
+Microsoft .NET Runtime - 10.0.5 (x64)
+Microsoft .NET Runtime - 10.0.5 (x86)
+Microsoft .NET Runtime - 11.0.0 Preview 2 (x64)
+Microsoft .NET Runtime - 11.0.0 Preview 2 (x86)
+Microsoft .NET Runtime - 5.0.17 (x64)
+Microsoft .NET Runtime - 5.0.17 (x86)
+Microsoft .NET Runtime - 6.0.36 (x64)
+Microsoft .NET Runtime - 6.0.36 (x86)
+Microsoft .NET Runtime - 7.0.20 (x64)
+Microsoft .NET Runtime - 7.0.20 (x86)
+Microsoft .NET Runtime - 8.0.25 (x64)
+Microsoft .NET Runtime - 8.0.25 (x86)
+Microsoft .NET Runtime - 9.0.14 (x64)
+Microsoft .NET Runtime - 9.0.14 (x86)
+Microsoft .NET SDK 10.0.301 (x64) from Visual Studio
+Microsoft .NET SDK 8.0.422 (x64)
+Microsoft ASP.NET Core 6.0.36 - Shared Framework (x64)
+Microsoft ASP.NET Core 6.0.36 - Shared Framework (x86)
+Microsoft ODBC Driver 17 for SQL Server
+Microsoft SQL Server 2025 LocalDB
+Microsoft System CLR Types for SQL Server 2019
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247
+Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247
+Microsoft Visual Studio Code (User)
+Microsoft Visual Studio Installer
+Microsoft Web Deploy 4.0
+Microsoft Windows Desktop Runtime - 3.0.3 (x64)
+Microsoft Windows Desktop Runtime - 3.0.3 (x86)
+Microsoft Windows Desktop Runtime - 3.1.32 (x64)
+Microsoft Windows Desktop Runtime - 3.1.32 (x86)
+Microsoft Windows Desktop Runtime - 5.0.17 (x64)
+Microsoft Windows Desktop Runtime - 5.0.17 (x86)
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)
+Microsoft Windows Desktop Runtime - 7.0.20 (x64)
+Microsoft Windows Desktop Runtime - 7.0.20 (x86)
+Microsoft Windows Desktop Runtime - 8.0.25 (x64)
+Microsoft Windows Desktop Runtime - 8.0.25 (x86)
+Microsoft Windows Desktop Runtime - 9.0.14 (x86)
+Microsoft Windows Desktop Runtime - 9.0.18 (x64)
+Microsoft Windows Desktop Runtime 10.0.11 (x64)
+Microsoft Windows Desktop Runtime 10.0.5 (x86)
+Microsoft Windows Desktop Runtime 11.0.0 (x64)
+Microsoft Windows Desktop Runtime 11.0.0 (x86)
+MSI App Player
+MuMuPlayer
+MicVoiceControl
+Modrinth App
+Nilesoft Shell
+Node.js
+Notepads
+OBS Studio
+Ollama version 0.32.5
+OP Auto Clicker
+Parsec
+Python 3.14.6
+PC Manager
+P2P File Portal
+Potassium
+R for Windows 4.6.1
+Revo Uninstaller Pro 5.5.0
+Roblox Player for PC 
+Roblox Studio for PC 
+Rustup: the Rust toolchain installer
+Steam
+StarDesk
+SnapMind AI
+TLauncher
+UXP WebView Support
+Visual Studio Community 2026
+VMware Workstation
+Voidstrap
+VencordInstaller
+Video-Streamer-Installer
+vs_CoreEditorFonts
+Windhawk v1.7.3
+Windows SDK AddOn
+Windows Software Development Kit - Windows 10.0.26100.8249
+Winhance v26.06.12
+Winrar
+X-Mouse Button Control 2.20.5
+Zen Browser (x64 en-US)
+Zig
